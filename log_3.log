@@ -1,0 +1,4 @@
+2023-04-21 12:40:15.325145, funcname: "hello_world", args=(), kwargs={}, result=Hello World
+2023-04-21 12:40:15.327139, funcname: "summator", args=(2, 2), kwargs={}, result=4
+2023-04-21 12:40:15.328138, funcname: "div", args=(6, 2), kwargs={}, result=3.0
+2023-04-21 12:40:15.329135, funcname: "summator", args=(4.3,), kwargs={'b': 2.2}, result=6.5

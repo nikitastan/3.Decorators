@@ -1,0 +1,2 @@
+2023-04-21 18:26:49.819254, funcname: "__init__", args=(<__main__.FlatIterator object at 0x000001E83DB99F10>, [['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]]), kwargs={}, result=None
+2023-04-21 18:26:49.820251, funcname: "__init__", args=(<__main__.FlatIterator object at 0x000001E83D6CD450>, [['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]]), kwargs={}, result=None

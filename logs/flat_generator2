@@ -1,0 +1,29 @@
+2023-04-21 18:26:49.821248, funcname: "flat_generator2", args=([[['a'], ['b', 'c']], ['d', 'e', [['f'], 'h'], False], [1, 2, None, [[[[['!']]]]], []]],), kwargs={}, result=<generator object flat_generator2 at 0x000001E83D681990>
+2023-04-21 18:26:49.822246, funcname: "flat_generator2", args=([['a'], ['b', 'c']],), kwargs={}, result=<generator object flat_generator2 at 0x000001E83D6825C0>
+2023-04-21 18:26:49.822246, funcname: "flat_generator2", args=(['a'],), kwargs={}, result=<generator object flat_generator2 at 0x000001E83D6834C0>
+2023-04-21 18:26:49.822246, funcname: "flat_generator2", args=(['b', 'c'],), kwargs={}, result=<generator object flat_generator2 at 0x000001E83D6834C0>
+2023-04-21 18:26:49.823245, funcname: "flat_generator2", args=(['d', 'e', [['f'], 'h'], False],), kwargs={}, result=<generator object flat_generator2 at 0x000001E83D6825C0>
+2023-04-21 18:26:49.823245, funcname: "flat_generator2", args=([['f'], 'h'],), kwargs={}, result=<generator object flat_generator2 at 0x000001E83D6834C0>
+2023-04-21 18:26:49.824242, funcname: "flat_generator2", args=(['f'],), kwargs={}, result=<generator object flat_generator2 at 0x000001E83D6832E0>
+2023-04-21 18:26:49.824242, funcname: "flat_generator2", args=([1, 2, None, [[[[['!']]]]], []],), kwargs={}, result=<generator object flat_generator2 at 0x000001E83D6825C0>
+2023-04-21 18:26:49.824242, funcname: "flat_generator2", args=([[[[['!']]]]],), kwargs={}, result=<generator object flat_generator2 at 0x000001E83D6834C0>
+2023-04-21 18:26:49.824242, funcname: "flat_generator2", args=([[[['!']]]],), kwargs={}, result=<generator object flat_generator2 at 0x000001E83D6832E0>
+2023-04-21 18:26:49.825238, funcname: "flat_generator2", args=([[['!']]],), kwargs={}, result=<generator object flat_generator2 at 0x000001E83D683100>
+2023-04-21 18:26:49.825238, funcname: "flat_generator2", args=([['!']],), kwargs={}, result=<generator object flat_generator2 at 0x000001E83D6831F0>
+2023-04-21 18:26:49.825238, funcname: "flat_generator2", args=(['!'],), kwargs={}, result=<generator object flat_generator2 at 0x000001E83D683010>
+2023-04-21 18:26:49.825238, funcname: "flat_generator2", args=([],), kwargs={}, result=<generator object flat_generator2 at 0x000001E83D6834C0>
+2023-04-21 18:26:49.825238, funcname: "flat_generator2", args=([[['a'], ['b', 'c']], ['d', 'e', [['f'], 'h'], False], [1, 2, None, [[[[['!']]]]], []]],), kwargs={}, result=<generator object flat_generator2 at 0x000001E83D681990>
+2023-04-21 18:26:49.826235, funcname: "flat_generator2", args=([['a'], ['b', 'c']],), kwargs={}, result=<generator object flat_generator2 at 0x000001E83D6825C0>
+2023-04-21 18:26:49.826235, funcname: "flat_generator2", args=(['a'],), kwargs={}, result=<generator object flat_generator2 at 0x000001E83D6834C0>
+2023-04-21 18:26:49.826235, funcname: "flat_generator2", args=(['b', 'c'],), kwargs={}, result=<generator object flat_generator2 at 0x000001E83D6834C0>
+2023-04-21 18:26:49.826235, funcname: "flat_generator2", args=(['d', 'e', [['f'], 'h'], False],), kwargs={}, result=<generator object flat_generator2 at 0x000001E83D6825C0>
+2023-04-21 18:26:49.827233, funcname: "flat_generator2", args=([['f'], 'h'],), kwargs={}, result=<generator object flat_generator2 at 0x000001E83D6834C0>
+2023-04-21 18:26:49.827233, funcname: "flat_generator2", args=(['f'],), kwargs={}, result=<generator object flat_generator2 at 0x000001E83D6832E0>
+2023-04-21 18:26:49.827233, funcname: "flat_generator2", args=([1, 2, None, [[[[['!']]]]], []],), kwargs={}, result=<generator object flat_generator2 at 0x000001E83D6825C0>
+2023-04-21 18:26:49.827233, funcname: "flat_generator2", args=([[[[['!']]]]],), kwargs={}, result=<generator object flat_generator2 at 0x000001E83D6834C0>
+2023-04-21 18:26:49.827233, funcname: "flat_generator2", args=([[[['!']]]],), kwargs={}, result=<generator object flat_generator2 at 0x000001E83D6832E0>
+2023-04-21 18:26:49.828231, funcname: "flat_generator2", args=([[['!']]],), kwargs={}, result=<generator object flat_generator2 at 0x000001E83D683100>
+2023-04-21 18:26:49.828231, funcname: "flat_generator2", args=([['!']],), kwargs={}, result=<generator object flat_generator2 at 0x000001E83D6831F0>
+2023-04-21 18:26:49.828231, funcname: "flat_generator2", args=(['!'],), kwargs={}, result=<generator object flat_generator2 at 0x000001E83D683010>
+2023-04-21 18:26:49.828231, funcname: "flat_generator2", args=([],), kwargs={}, result=<generator object flat_generator2 at 0x000001E83D6834C0>
+2023-04-21 18:26:49.828231, funcname: "flat_generator2", args=([[['a'], ['b', 'c']], ['d', 'e', [['f'], 'h'], False], [1, 2, None, [[[[['!']]]]], []]],), kwargs={}, result=<generator object flat_generator2 at 0x000001E83D681990>
